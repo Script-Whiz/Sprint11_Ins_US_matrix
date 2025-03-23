@@ -12,4 +12,4 @@ This project uses Linear Regression, and  KNN.
 MSE and RMSE are used for scoring. 
 
 on GitHub:
-https://github.com/Script-Whiz/Sprint11_Ins_US_matrix/blob/main/notebooks/Sprint11_LinearAlg_ver1.ipynb
+https://github.com/Script-Whiz/Sprint11_Ins_US_matrix/blob/main/notebooks/Sprint11_LinearAlg_ver2_final.ipynb
